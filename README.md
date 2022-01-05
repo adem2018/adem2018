@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Bootcamp 2022
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me (cooming soon)
 
 <!---
 samirB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
